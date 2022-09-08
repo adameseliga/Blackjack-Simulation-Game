@@ -1,2 +1,2 @@
 # Blackjack-Simulation-Game
-This is a blackjack simulation that I plan to do something with in the future.
+This is a very basic blackjack script. You must have python installed in order for it to run.

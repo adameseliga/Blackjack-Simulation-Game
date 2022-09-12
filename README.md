@@ -1,2 +1,2 @@
 # Blackjack-Simulation-Game
-This is a very basic blackjack script. You must have python installed in order for it to run.
+This is a very basic blackjack script. Written in python 3.7.
